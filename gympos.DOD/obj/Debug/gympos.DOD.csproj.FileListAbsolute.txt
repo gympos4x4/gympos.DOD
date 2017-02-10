@@ -1,0 +1,14 @@
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\bin\Debug\gympos.DOD.exe.config
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\bin\Debug\gympos.DOD.exe
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\bin\Debug\gympos.DOD.pdb
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD.csprojResolveAssemblyReference.cache
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\MainWindow.g.cs
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\App.g.cs
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD_MarkupCompile.cache
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD_MarkupCompile.lref
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\MainWindow.baml
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD.g.resources
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD.Properties.Resources.resources
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD.csproj.GenerateResource.Cache
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD.exe
+c:\users\juraj\documents\visual studio 2015\Projects\gympos.DOD\gympos.DOD\obj\Debug\gympos.DOD.pdb
