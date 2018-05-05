@@ -1,0 +1,35 @@
+//Kto by neuhadol, konfiguracny subor programu
+
+{
+  //nazov suboru kde sa ukladaju vsetky pokusy o poslanie emailu - nasa 'databaza' ludi
+
+  "CsvDbPath": "students.csv",
+
+  //Nastavenia SMTP serveru
+  //  SSL nefunguje (skola nema platny certifikat)
+  //  Mimo skoly to nefunguje:
+  //    "Mailbox unavailable. The server response was: 5.7.1 Unable to relay"
+  //    nemam sajn co to znamena a nevyriesim to
+  //
+  //  Ak sa pouzije gmail SMTP tak to funguje
+  //    "SmtpServer": "smtp.gmail.com",
+  //    "SmtpPort": 587,
+  //    "SmtpSsl": true,
+
+  "SmtpServer": "server.gympos.local",
+  "SmtpPort"  : 25,
+  "SmtpSsl"   :	false, 
+
+  //Detaily pre schranku
+
+  "MailAccount"	   : 	"columba@gympos.sk",
+  "MailDisplayName":  	"Columba Racing - Pošotvá 9",
+  "MailPasswd"	   : 	"4X4/pse",
+
+  //Podrobnosti emailu - cely mail ma nastavene kodovanie UFT-8
+
+  "MailHtmlContentFile" : "template/html.html",	//HTML verzia (aby sa zobrazil obrazok musi tam byt <img src="cid:photo">)
+  "MailPlainContentFile": "template/plain.txt",	//komu nezobrazi HTML uvidi toto
+  "MailSubject" 	: "DOD na Poštovej",	//self-explanatory
+  "MailPhotoName"	: "foto.jpg"		//nazov fotky ktora sa posle ako priloha
+}
